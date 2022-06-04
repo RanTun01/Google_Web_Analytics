@@ -1,0 +1,2 @@
+This project was for Web Analytics, where I learned the metrics used in different forms of media and how to leverage them.
+The powerpoint attached is my final where I presented data and findings on the Google store.
